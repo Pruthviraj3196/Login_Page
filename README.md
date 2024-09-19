@@ -2,6 +2,8 @@
 
 This project demonstrates how to create a sign-up form in React using Formik for form state management and Yup for validation. The form includes validation for a name, email, password, and confirm password fields. The password must be set to the specific value "rishiME@199".
 
+## Hosted Link - [https://login-page-three-sigma.vercel.app/]
+
 # Features
 
 - Name Field: Must be between 2 and 25 characters.
