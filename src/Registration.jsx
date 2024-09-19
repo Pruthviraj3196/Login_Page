@@ -103,7 +103,7 @@ const Registration = () => {
               </div>
             </form>
             <p className="sign-up">
-              Already have an account? <a href="#">Sign In now</a>
+              Already have an account..? <a href="#">Sign In now</a>
             </p>
           </div>
           <div className="modal-right">
